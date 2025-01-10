@@ -8,4 +8,4 @@ period. It is important to understand biological changes over the perinatal peri
 gut microbiota and brain (the gut-brain axis) that may lead to perinatal anxiety as perinatal anxiety
 is common (~20%) and leads to negative consequences for the mother and the infant (e.g.,
 preterm birth, neurological delays). The objectives of this research are: 
-i) to establish associations between maternal gut microbiota and anxiety levels during the perinatal time
+i) to establish associations between maternal gut microbiota and anxiety levels during the perinatal time.
