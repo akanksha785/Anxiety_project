@@ -1,4 +1,4 @@
-# Anxiety_project
+# Anxiety
 
 The gut microbiota has been identified as an essential component of mood disorders. Individuals
 with active mood disorders, such as depression or anxiety, harbors a distinct community of
